@@ -1,0 +1,7 @@
+{
+  "flags": "-io",
+  "patterns": [
+    "[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}",
+    "(?:https?://)?(?:www\\.)?(?:twitter|facebook|linkedin|github|instagram)\\.com/[a-zA-Z0-9_.-]+"
+  ]
+}
