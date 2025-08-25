@@ -23,7 +23,7 @@ setup(
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     author="begineer-py",  # 換成你的名字
-    author_email="your-email@example.com",  # 可選
+    author_email="pythonuseful@gmail.com",  # 可選
     url="https://github.com/begineer-py/hacker_gf",
     packages=find_packages(),
     include_package_data=True,
